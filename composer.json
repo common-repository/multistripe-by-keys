@@ -1,0 +1,13 @@
+{
+    "name": "sebastien/multistripe-by-keys",
+    "description": "MultiStripe by Keys",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Includes\\": "./Includes"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
